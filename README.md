@@ -1,5 +1,7 @@
 # slang-translation
 
+## 음성 인식 모델 개발 프로젝트를 하면서 느끼고 배웠던 점들은 Notion에 기록해두었습니다.
+
 ## 모델 설명
 ![image](https://user-images.githubusercontent.com/59904000/212801767-34924e5d-588d-41ac-918f-1b39b8a4d241.png)
 
